@@ -13,6 +13,8 @@ def capybara(a):
             return print(f"you have deposited {a}"), money - yy ,"$"
          else:
              return print("you dont have enoght")
+         #aq chaweret ramideni ginda daricxot 
+         #none s yuradgeba ar miaqciot 
         hh = gamar(int(input()))
         print(hh)
     elif a == 3:
@@ -22,6 +24,8 @@ def capybara(a):
                 return "you withdawed" ,money - da
             else:
                 return "not enoght money"
+            #none-s yuredgeba ar miaqciot 
+            # aq daweret wamdeni aigot fuli 
         jaja = la(int(input()))
         print(jaja)
         
